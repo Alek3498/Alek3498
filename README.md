@@ -1,5 +1,5 @@
 ### Hi there, I'm Freddy
-### I'm passionate about networking/cybersecurity and have a keen interest in the fascinating world of data analysis.
+### I'm passionate about network monitoring and cybersecurity, with a strong focus on ensuring network integrity and enhancing security protocols (regulations).
 ![I am a networking / cybersecurity enthusiast moving to the data analyst world](https://github.com/Alek3498/Alek3498/blob/main/baab898b47aff8f168978cda57219aec.jpg)
 
 
