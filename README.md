@@ -1,6 +1,6 @@
 ### Hi there, I'm Freddy
-### I'm passionate about network monitoring and cybersecurity, with a strong focus on ensuring network integrity and enhancing security protocols (regulations).
-![I am a networking / cybersecurity enthusiast moving to the data analyst world](https://github.com/Alek3498/Alek3498/blob/main/baab898b47aff8f168978cda57219aec.jpg)
+### I’m passionate about technology and process visibility, with a focus on maintaining network integrity and advancing cybersecurity standards. 
+![](https://github.com/Alek3498/Alek3498/blob/main/baab898b47aff8f168978cda57219aec.jpg)
 
 
 
