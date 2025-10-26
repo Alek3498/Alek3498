@@ -1,6 +1,6 @@
 ### Hi there, I'm Freddy
 ### I’m passionate about technology and process visibility, with a focus on maintaining network integrity and advancing cybersecurity standards. 
-![.](https://github.com/Alek3498/Alek3498/baab898b47aff8f168978cda57219aec.jpg)
+![.](https://github.com/Alek3498/baab898b47aff8f168978cda57219aec.jpg)
 
 
 
