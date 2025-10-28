@@ -1,6 +1,3 @@
-![A funny pic](panda.png)
-
-
 
 Skills: Networking / scripting / Security / Virtualization / Troubleshooting
 
